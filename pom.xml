@@ -6,7 +6,7 @@
 
   <artifactId>comment-sdk-kotlin</artifactId>
   <groupId>com.wutsi.comment</groupId>
-  <version>1.0.4-SNAPSHOT</version>
+  <version>1.0.4</version>
   <packaging>jar</packaging>
 
   <name>comment-sdk-kotlin</name>
@@ -54,7 +54,7 @@
 
   <scm>
     <developerConnection>scm:git:https://github.com/wutsi/comment-sdk-kotlin.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>comment-sdk-kotlin-1.0.4</tag>
   </scm>
   <distributionManagement>
     <repository>
